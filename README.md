@@ -1,2 +1,19 @@
-# hackathon-diretrizes
-Conjunto de informações relevantes ao evento Hackathon DevTalks 2018
+## Visão Geral
+
+
+### Data e local do evento
+
+
+### Patrocinadores e apoiadores
+
+
+### Tema
+
+
+### Mentores e Jurados
+
+
+### Equipes
+
+
+### Avaliação
